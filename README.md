@@ -1,4 +1,4 @@
-<h1 align="center">🚀 DIY Radar</h1>
+<h1 align="center">🛰️📡🎯 DIY Radar</h1>
 <h3 align="center">End-Year Project</h3>
 
 ---
@@ -13,7 +13,7 @@
 
 ## 🔍 Description <a name="description"></a>
 
-<h2 align="center">🌱DIY Radar</h2>
+<h2 align="center">📡DIY Radar</h2>
 
 
 ---

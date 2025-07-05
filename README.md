@@ -27,8 +27,8 @@
 ## 🧪 Technologies Used <a name="technologies"></a>
 
 <p align="center">
+  <img src="https://en.wikipedia.org/wiki/Processing" alt="Proccesing>
   <a href="https://www.arduino.cc/">
-    <img src="https://en.wikipedia.org/wiki/Processing" alt="Proccesing>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="80" alt="Arduino">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="80" alt="GitHub">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="80" alt="Word">
